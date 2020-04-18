@@ -1,4 +1,4 @@
-! Block 'seen' status for https://www.messenger.com/ so nobody can see that you read message. (https://github.com/hXR16F/uBlock-Origin-Lists)
+! Block 'seen' status for https://www.messenger.com/ so nobody can see that you read message. (https://github.com/hXR16F)
 ||www.messenger.com/ajax/mercury/mark_seen.php$xhr,domain=www.messenger.com
 ||www.messenger.com/ajax/mercury/delivery_receipts.php$xhr,domain=www.messenger.com
 ||www.messenger.com/ajax/mercury/change_read_status.php$xhr,domain=www.messenger.com
